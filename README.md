@@ -1,2 +1,2 @@
 # React-Projects
-This project consist of small and fun react projects
+This repo consist of small and fun react projects that i have worked on 
